@@ -1,4 +1,4 @@
-The aim is to read specific files from the internet and to analyse the text for sentiment using nltk and other liabraries.
+The aim is to read specific files from the internet and to analyse the text for sentiment using nltk and other libraries.
 The contents of the repository are:
 
 1. out4.xlsx :It is the xlsx file that contains the required output in the format as asked.
